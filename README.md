@@ -3,5 +3,7 @@ End-to-end retail sales analysis on the Rossmann dataset using MySQL 8.0, Python
 
 
 SQL schema, data ingestion & KPI analysis — Done
+
 Python data quality & EDA — In progress
+
 BI dashboard — Planned
